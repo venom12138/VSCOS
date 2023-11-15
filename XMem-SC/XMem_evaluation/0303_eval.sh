@@ -1,0 +1,11 @@
+cd /u/ryanxli/venom/XMem/XMem_evaluation
+# python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0307_random_walk/D0366_use_flow=1,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all
+# python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0307_random_walk/D0367_use_flow=1,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=0.1,steps=1000/all
+# python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0307_random_walk/D0367_use_flow=1,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=0.5,steps=1000/all
+# python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0307_random_walk/D0367_use_flow=1,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=0.05,steps=1000/all
+# python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0307_random_walk/D0368_use_flow=1,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=0.01,steps=1000/all
+python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0311_random_walk_var/D0369_seed=1432876,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all
+python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0311_random_walk_var/D0370_seed=1733205,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all
+python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0311_random_walk_var/D0370_seed=7412583,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all
+python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0311_random_walk_var/D0371_seed=1745689,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all
+python evaluation_method.py --results_path /u/ryanxli/.exp/0925_state_change_segm/0311_random_walk_var/D0371_seed=4125786,droprate=0,downsample=pooling,pooling_stride=2,use_head=1,rw_loss=1,steps=1000/all

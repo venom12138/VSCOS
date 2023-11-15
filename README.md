@@ -7,4 +7,6 @@ Please find our dataset at this [link](https://drive.google.com/drive/folders/1C
 
 # Code and Models
 
-Coming Soon
+### 23/11/15
+Update XMem-SC implementation, to run the code, please refer to the train.sh, eval.sh, and entry.sh. 
+
